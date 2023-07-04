@@ -40,6 +40,10 @@ public class MainActivity extends AppCompatActivity {
 
         mAuth=FirebaseAuth.getInstance();
 
+        if (mAuth.getCurrentUser() != null){
+            startActivity(new Intent(getApplicationContext(),HomeActivity.class));
+        }
+
         //noinspection deprecation
         mDialog=new ProgressDialog(this);
 

@@ -2538,6 +2538,11 @@
     <style name="Base.Theme.SakuProjectBesar" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="drawerArrowStyle">@style/DrawerIconStyle</item>
+
     </style>
     <style name="Base.ThemeOverlay.AppCompat" parent="Platform.ThemeOverlay.AppCompat"/>
     <style name="Base.ThemeOverlay.AppCompat.ActionBar">
@@ -5499,6 +5504,9 @@
     </style>
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="DrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
     </style>
     <style name="MaterialAlertDialog.Material3" parent="MaterialAlertDialog.MaterialComponents">
     <item name="enforceMaterialTheme">true</item>

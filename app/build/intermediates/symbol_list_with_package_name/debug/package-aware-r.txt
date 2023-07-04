@@ -2041,6 +2041,7 @@ color mtrl_textinput_disabled_color
 color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
+color nav_header
 color notification_action_color_filter
 color notification_icon_bg_color
 color primary_dark_material_dark
@@ -2063,6 +2064,7 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color toolbar_color
 color tooltip_background_dark
 color tooltip_background_light
 color white
@@ -3135,6 +3137,7 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
+id appbar
 id arc
 id asConfigured
 id async
@@ -3230,6 +3233,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drawer_layout
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -3370,6 +3374,8 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id my_toolbar
+id naView
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3688,6 +3694,7 @@ layout activity_home
 layout activity_main
 layout activity_registration
 layout activity_reset
+layout appbar_layout
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout content_main
@@ -3758,6 +3765,7 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout mtrl_search_bar
 layout mtrl_search_view
+layout nav_header
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -3769,6 +3777,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu buttommenu
+menu navmenu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3948,6 +3957,8 @@ string mtrl_switch_track_decoration_path
 string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
+string navigation_drawer_close
+string navigation_drawer_open
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -4246,6 +4257,7 @@ style Base_Widget_MaterialComponents_TextView
 style CardView
 style CardView_Dark
 style CardView_Light
+style DrawerIconStyle
 style MaterialAlertDialog_Material3
 style MaterialAlertDialog_Material3_Animation
 style MaterialAlertDialog_Material3_Body_Text

@@ -12,10 +12,16 @@ import androidx.fragment.app.FragmentTransaction;
 
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.widget.FrameLayout;
 
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationView;
 
 public class HomeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
+
+    private BottomNavigationView navigationView;
+    private FrameLayout frameLayout;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,6 +44,9 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         NavigationView navigationView=findViewById(R.id.naView);
         navigationView.setNavigationItemSelectedListener(this);
 
+        navigationView=findViewById(R.id.bottomNavigationbar);
+        frameLayout=findViewById(R.id.bottomNavigationbar);
+
 
     }
 
@@ -55,13 +64,23 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
 
     }
 
-    public void displaySelectedListener(int itemid) {
-        Fragment fragment = null;
+    public void displaySelectedListener(int itemId) {
 
-        switch (itemid){
+        Fragment fragment=null;
+
+        if (itemId==R.id.dashboard){
+
+        } else if (itemId==R.id.income){
+
+        } else if (itemId==R.id.expense){
+
+        }
+        /*
+        switch (itemId){
             case R.id.dashboard:
 
                 break;
+
             case R.id.income:
 
                 break;
@@ -71,19 +90,23 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
                 break;
 
         }
-
+        */
         if (fragment!=null){
 
             FragmentTransaction ft=getSupportFragmentManager().beginTransaction();
-            ft.replace(R.id.main_frame,fragment);
+            ft.replace(R.id.bottomNavigationbar,fragment);
             ft.commit();
 
         }
+
+        DrawerLayout drawerLayout=findViewById(R.id.drawer_layout);
+        drawerLayout.closeDrawer(GravityCompat.START);
 
     }
 
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-        return false;
+        displaySelectedListener(item.getItemId());
+        return true;
     }
 }

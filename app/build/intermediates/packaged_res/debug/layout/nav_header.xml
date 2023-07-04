@@ -14,5 +14,5 @@
         android:text="Expense Manager"
         android:textAppearance="?android:textAppearanceMedium"
         android:textColor="@color/white"
-        android:gravity="center"
+        android:gravity="center"></TextView>
 </LinearLayout>
