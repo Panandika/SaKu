@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#240F49</color>
+    <color name="dashboard_color">#B387FF</color>
+    <color name="expense_color">#F44336</color>
+    <color name="income_color">#8BC34A</color>
     <color name="nav_header">#240F49</color>
     <color name="toolbar_color">#240F49</color>
     <color name="white">#FFFFFFFF</color>
@@ -11,12 +14,21 @@
     <string name="google_app_id" translatable="false">1:571131317058:android:ad24c43665d87f329756db</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEUSWeFtpjyLZZfaGToM1-G-tEEU_WQEY</string>
     <string name="google_storage_bucket" translatable="false">saku-e82bd.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="navigation_drawer_close">Close Navigation Drawer</string>
     <string name="navigation_drawer_open">Open Navigation Drawer</string>
     <string name="project_id" translatable="false">saku-e82bd</string>
     <style name="Base.Theme.SakuProjectBesar" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="drawerArrowStyle">@style/DrawerIconStyle</item>
+
+    </style>
+    <style name="DrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
     </style>
     <style name="Theme.SakuProjectBesar" parent="Base.Theme.SakuProjectBesar"/>
 </resources>

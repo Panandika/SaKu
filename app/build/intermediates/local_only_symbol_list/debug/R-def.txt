@@ -1,6 +1,9 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color dashboard_color
+color expense_color
+color income_color
 color nav_header
 color toolbar_color
 color white
@@ -14,9 +17,10 @@ drawable income
 font poppinsbold
 font poppinsregular
 id appbar
+id bottomNavigationbar
 id btn_login
 id btn_reg
-id buttomNavigationbar
+id contentMain
 id dashboard
 id drawer_layout
 id email_login
@@ -36,6 +40,9 @@ layout activity_registration
 layout activity_reset
 layout appbar_layout
 layout content_main
+layout fragment_dash_board
+layout fragment_expense
+layout fragment_income
 layout nav_header
 menu buttommenu
 menu navmenu
@@ -48,6 +55,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string navigation_drawer_close
 string navigation_drawer_open
 string project_id

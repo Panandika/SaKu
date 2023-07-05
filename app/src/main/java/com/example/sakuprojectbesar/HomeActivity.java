@@ -19,9 +19,14 @@ import com.google.android.material.navigation.NavigationView;
 
 public class HomeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
-    private BottomNavigationView navigationView;
+    private BottomNavigationView bottomNavigationView;
     private FrameLayout frameLayout;
 
+    //Fragment..
+
+    private DashBoardFragment dashBoardFragment;
+    private IncomeFragment incomeFragment;
+    private ExpenseFragment expenseFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +37,8 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         toolbar.setTitle("Expense Manager");
         setSupportActionBar(toolbar);
 
+        bottomNavigationView=findViewById(R.id.bottomNavigationbar);
+        frameLayout=findViewById(R.id.contentMain);
         DrawerLayout drawerLayout=findViewById(R.id.drawer_layout);
 
         ActionBarDrawerToggle toggle=new ActionBarDrawerToggle(
@@ -44,9 +51,63 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         NavigationView navigationView=findViewById(R.id.naView);
         navigationView.setNavigationItemSelectedListener(this);
 
-        navigationView=findViewById(R.id.bottomNavigationbar);
-        frameLayout=findViewById(R.id.bottomNavigationbar);
+        dashBoardFragment=new DashBoardFragment();
+        incomeFragment=new IncomeFragment();
+        expenseFragment=new ExpenseFragment();
 
+        setFragment(dashBoardFragment);
+
+        bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
+            @Override
+            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+
+                if (item.getItemId() == R.id.dashboard){
+                    setFragment(dashBoardFragment);
+                    bottomNavigationView.setItemBackgroundResource(R.color.dashboard_color);
+                    return true;
+                } else if (item.getItemId()==R.id.income) {
+                    setFragment(incomeFragment);
+                    bottomNavigationView.setItemBackgroundResource(R.color.income_color);
+                    return true;
+                } else if (item.getItemId()==R.id.expense){
+                    setFragment(expenseFragment);
+                    bottomNavigationView.setItemBackgroundResource(R.color.expense_color);
+                    return true;
+                } else {
+                    return false;
+                }
+
+
+                /*
+                switch (item.getItemId()){
+
+                    case R.id.dashboard:
+                        bottomNavigationView.setItemBackgroundResource(R.color.dashboard_color);
+                        return true;
+
+                    case R.id.income:
+                        bottomNavigationView.setItemBackgroundResource(R.color.income_color);
+                        return true;
+
+                    case R.id.expense:
+                        bottomNavigationView.setItemBackgroundResource(R.color.expense_color);
+                        return true;
+
+                    default:
+                        return false;
+                }
+                */
+            }
+        });
+
+
+    }
+
+    private void setFragment(Fragment fragment) {
+
+        FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.bottomNavigationbar,fragment);
+        fragmentTransaction.commit();
 
     }
 
@@ -69,10 +130,13 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         Fragment fragment=null;
 
         if (itemId==R.id.dashboard){
+            fragment=new DashBoardFragment();
 
         } else if (itemId==R.id.income){
+            fragment=new IncomeFragment();
 
         } else if (itemId==R.id.expense){
+            fragment=new ExpenseFragment();
 
         }
         /*
@@ -94,7 +158,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
         if (fragment!=null){
 
             FragmentTransaction ft=getSupportFragmentManager().beginTransaction();
-            ft.replace(R.id.bottomNavigationbar,fragment);
+            ft.replace(R.id.contentMain,fragment);
             ft.commit();
 
         }

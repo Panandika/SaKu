@@ -1,178 +1,194 @@
 [
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_nav_header.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/layout/nav_header.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-hdpi_dashboard.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-hdpi/dashboard.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-anydpi_dashboard.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-anydpi/dashboard.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-anydpi_expense.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-anydpi/expense.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\menu_buttommenu.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\menu\\buttommenu.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-hdpi_income.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-hdpi/income.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-anydpi_expense.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-anydpi\\expense.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-xhdpi_dashboard.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-xhdpi/dashboard.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-hdpi_income.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-hdpi\\income.png"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-mdpi_income.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-mdpi\\income.png"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-mdpi_expense.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-mdpi\\expense.png"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-xhdpi_income.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-xhdpi/income.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/menu_navmenu.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/menu/navmenu.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-anydpi_income.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-anydpi\\income.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-mdpi_dashboard.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-mdpi/dashboard.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-hdpi_expense.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-hdpi\\expense.png"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_activity_home.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/layout/activity_home.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_activity_reset.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\activity_reset.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\font\\poppinsbold.ttf"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_fragment_expense.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\fragment_expense.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_activity_registration.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/layout/activity_registration.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_fragment_dash_board.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\fragment_dash_board.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-xxhdpi_income.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-xxhdpi/income.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_appbar_layout.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\appbar_layout.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-xxhdpi_expense.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-xxhdpi/expense.png"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable_backround_color.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable/backround_color.xml"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-xhdpi_expense.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-xhdpi/expense.png"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-anydpi_income.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-anydpi/income.xml"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/font_poppinsregular.ttf.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/font/poppinsregular.ttf"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/xml_backup_rules.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/xml/backup_rules.xml"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_activity_main.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/layout/activity_main.xml"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_activity_reset.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/layout/activity_reset.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_activity_home.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\activity_home.xml"
     },
     {
         "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_content_main.xml.flat",
         "source": "com.example.sakuprojectbesar.app-main-35:/layout/content_main.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-mdpi_income.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-mdpi/income.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\menu_navmenu.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\menu\\navmenu.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-mdpi_expense.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-mdpi/expense.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_nav_header.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\nav_header.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/font_poppinsbold.ttf.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/font/poppinsbold.ttf"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-xxhdpi_dashboard.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-xxhdpi\\dashboard.png"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-hdpi_expense.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-hdpi/expense.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-xhdpi_dashboard.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-xhdpi\\dashboard.png"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/menu_buttommenu.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/menu/buttommenu.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/layout_appbar_layout.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/layout/appbar_layout.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable-xxhdpi_dashboard.png.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable-xxhdpi/dashboard.png"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable_edittext_backround.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable\\edittext_backround.xml"
     },
     {
-        "merged": "com.example.sakuprojectbesar.app-merged_res-33:/drawable_edittext_backround.xml.flat",
-        "source": "com.example.sakuprojectbesar.app-main-35:/drawable/edittext_backround.xml"
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_content_main.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_fragment_income.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\fragment_income.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-xhdpi_expense.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-xhdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-anydpi_dashboard.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-anydpi\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-xhdpi_income.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-xhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable_backround_color.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable\\backround_color.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\font_poppinsregular.ttf.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\font\\poppinsregular.ttf"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-mdpi_dashboard.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-mdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-xxhdpi_expense.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-xxhdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-hdpi_dashboard.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-hdpi\\dashboard.png"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\drawable-xxhdpi_income.png.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\drawable-xxhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-merged_res-33:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Gradle\\gradle-8.1.1\\daemon\\8.0\\com.example.sakuprojectbesar.app-main-35:\\layout\\activity_registration.xml"
     }
 ]
