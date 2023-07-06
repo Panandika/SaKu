@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306614994044",
+    "project_id": "saku-keuangan",
+    "storage_bucket": "saku-keuangan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306614994044:android:20815f26ff06d1a06d35f9",
+        "android_client_info": {
+          "package_name": "com.example.saku20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306614994044-g9e5iqlhte0d24btc0uvv6k5si3ggapa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPU5roujOkUH-MW6QQtYsUCgBpNQ0mz8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306614994044-g9e5iqlhte0d24btc0uvv6k5si3ggapa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

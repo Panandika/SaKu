@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorDivider">#ECECEC</color>
+    <color name="green">#11D99B</color>
+    <color name="grey">#E8E8E8</color>
+    <color name="red">#FF5151</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#D9D92F</color>
+    <string name="app_name">SaKu2.0</string>
+    <string name="default_web_client_id" translatable="false">306614994044-g9e5iqlhte0d24btc0uvv6k5si3ggapa.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">306614994044</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPU5roujOkUH-MW6QQtYsUCgBpNQ0mz8E</string>
+    <string name="google_app_id" translatable="false">1:306614994044:android:20815f26ff06d1a06d35f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPU5roujOkUH-MW6QQtYsUCgBpNQ0mz8E</string>
+    <string name="google_storage_bucket" translatable="false">saku-keuangan.appspot.com</string>
+    <string name="project_id" translatable="false">saku-keuangan</string>
+    <style name="Base.Theme.SaKu20" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+        
+    </style>
+    <style name="Theme.SaKu20" parent="Base.Theme.SaKu20"/>
+</resources>
