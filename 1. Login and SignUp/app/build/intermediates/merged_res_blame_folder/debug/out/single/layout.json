@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.saku20.app-mergeDebugResources-27:/layout/activity_sign_up.xml",
+        "source": "com.example.saku20.app-main-30:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.saku20.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.example.saku20.app-main-30:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorDivider">#ECECEC</color>
+    <color name="green">#11D99B</color>
+    <color name="grey">#E8E8E8</color>
+    <color name="red">#FF5151</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#D9D92F</color>
+    <string name="app_name">SaKu2.0</string>
+    <style name="Base.Theme.SaKu20" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SaKu20" parent="Base.Theme.SaKu20"/>
+</resources>
