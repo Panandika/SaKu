@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">306614994044-g9e5iqlhte0d24btc0uvv6k5si3ggapa.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">306614994044</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPU5roujOkUH-MW6QQtYsUCgBpNQ0mz8E</string>
+    <string name="google_app_id" translatable="false">1:306614994044:android:20815f26ff06d1a06d35f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPU5roujOkUH-MW6QQtYsUCgBpNQ0mz8E</string>
+    <string name="google_storage_bucket" translatable="false">saku-keuangan.appspot.com</string>
+    <string name="project_id" translatable="false">saku-keuangan</string>
+</resources>
