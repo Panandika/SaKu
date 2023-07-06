@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.saku20.app-mergeDebugResources-32:/layout/activity_update.xml",
+        "source": "com.example.saku20.app-main-35:/layout/activity_update.xml"
+    },
+    {
+        "merged": "com.example.saku20.app-mergeDebugResources-32:/layout/activity_dashboard.xml",
+        "source": "com.example.saku20.app-main-35:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
+        "source": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-mergeDebugResources-32:/layout/activity_add_transaction.xml",
+        "source": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-main-35:/layout/activity_add_transaction.xml"
+    },
+    {
+        "merged": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-mergeDebugResources-32:/layout/activity_dashboard.xml",
+        "source": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-main-35:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-mergeDebugResources-32:/layout/one_recycler_item.xml",
+        "source": "/Users/satyarama/.gradle/daemon/8.0/com.example.saku20.app-main-35:/layout/one_recycler_item.xml"
+    }
+]
